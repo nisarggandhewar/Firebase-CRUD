@@ -1,2 +1,2 @@
 # Firebase-CRUD
-CRUD on Firebase
+This will demonstrate the CRUD operation to be performed on Firebase using HTML,JS and CSS.
